@@ -5,9 +5,14 @@ Jogo simples para o projeto acadêmico na disciplina aplicações frontend.
 Criar um jogo básico praticando a lógica dos comandos nos personagens.
 
 # Ferramentas
-- HTML5
-- CSS
-- JavaScript
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
+                  
+</p>
 
 # Como usar?
 Abra o arquivo na ferramenta visual studio code e rode o projeto.
