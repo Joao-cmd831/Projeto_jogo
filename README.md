@@ -1,7 +1,7 @@
 # Jogo_Nave
 Jogo simples para o projeto acadêmico na disciplina aplicações frontend.
 
-# Objetivos
+# Objetivo
 Criar um jogo básico praticando a lógica dos comandos nos personagens.
 
 # Ferramentas
